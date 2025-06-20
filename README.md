@@ -1,7 +1,7 @@
 # 💼 Jobsyte
 
 **Jobsyte** is a modern, full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** based job portal web application. It bridges the gap between job seekers and employers by offering a clean, intuitive platform to post jobs, create profiles, and manage listings.
-![Homepage](assets/homepage.png)
+![Homepage](assets/homepage2.png)
 
 ## 🚀 Features
 
